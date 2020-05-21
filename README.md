@@ -1,0 +1,1 @@
+Ennotion is a tool designed for automatically creating motion effects from emotion.
